@@ -1,0 +1,5 @@
+train: D:\MyProjects\sih\apples\apples\train\
+val: D:\MyProjects\sih\apples\apples\validation
+
+nc: 2
+names: ['good', 'bad']

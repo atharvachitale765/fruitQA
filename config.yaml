@@ -1,0 +1,5 @@
+train_dir: "dataset/train"
+val_dir: "dataset/val"
+cnn_model_path: "models/cnn_model.pth"
+yolo_model_path: "models/yolov5s_best.pt"
+data_yaml_path: "dataset/data.yaml"
