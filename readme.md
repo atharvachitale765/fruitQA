@@ -4,5 +4,5 @@ This project focuses on classifying apple images into categories such as "Good",
 
 Installation:
 ```bash
-git clone https://github.com/yourusername/apple-quality-detection.git
-cd apple-quality-detection
+git clone https://github.com/atharvachitale765/fruitQA.git
+cd fruitQA
